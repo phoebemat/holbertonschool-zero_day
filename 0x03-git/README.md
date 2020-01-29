@@ -1,1 +1,1 @@
-readme for git fild, understanding git commands.
+updated readme for git fild, understanding git commands.
